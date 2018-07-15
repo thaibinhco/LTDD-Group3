@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Smart eBook</string>
+    <!-- Main screen start -->
+    <!-- Activity -->
+
+    <!-- ActionBar -->
+
+    <!-- Main screen end -->
+
+
+
+    <!-- ORC screen start -->
+    <!-- Activity -->
+    <string name="ocr_name">Ocr Scanner</string>
+
+    <!-- ActionBar -->
+    <color name="titlebackgroundcolor">#555555</color>
+    <color name="titletextcolor">#00FFFF</color>
+    <string name="txtTitle">Select Language</string>
+
+    <string name="atnLanguage">Language</string>
+    <string name="atnCamera">Camera</string>
+    <string name="atnGallery">Gallery</string>
+    <string name="atnSettings">Settings</string>
+
+    <!-- Menu -->
+
+    <!-- ORC screen end -->
+
+
+
+    <!-- Documents screen start -->
+    <!-- Activity -->
+    <string name="edtDoc">Nhập nội dung...</string>
+
+    <!-- ActionBar -->
+
+
+    <!-- Documents screen end -->
+</resources>
